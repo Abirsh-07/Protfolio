@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
   const socialLinks = [
     {
       icon: <Mail className="w-5 h-5" />,
-      href: 'mailto:abrihamyohannes@email.com',
+      href: 'mailto:abrihamyohannes27@email.com',
       label: 'Email'
     },
     {
