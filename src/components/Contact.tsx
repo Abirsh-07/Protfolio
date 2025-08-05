@@ -24,7 +24,7 @@ const Contact: React.FC = () => {
       icon: <Mail className="w-6 h-6" />,
       label: 'Email',
       value: 'abrihamyohannes@email.com',
-      link: 'mailto:abrihamyohannes@email.com'
+      link: 'mailto:abrihamyohannes27@email.com'
     },
     {
       icon: <MessageCircle className="w-6 h-6" />,
