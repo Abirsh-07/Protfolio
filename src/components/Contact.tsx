@@ -182,7 +182,7 @@ const Contact: React.FC = () => {
                 Let's discuss your project and create something extraordinary together.
               </p>
               <motion.a
-                href="mailto:abrihamyohannes@email.com"
+                href="mailto:abrihamyohannes27@email.com"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="inline-flex items-center gap-2 bg-white text-blue-600 px-6 py-3 rounded-full font-semibold shadow-lg hover:shadow-xl transition-all duration-300"
